@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Matias Helueni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Hi, I am an aspiring full-stack developer with an innate passion for learning and growth in the world of programming. My focus is on acquiring strong skills in web development and becoming a valuable asset to any development team. Although I currently lack professional experience in the field, I am committed to dedicating my time and energy to achieve my goals in software development.
+I am an aspiring full-stack developer with an innate passion for learning and growth in the world of programming. My focus is on acquiring strong skills in web development and becoming a valuable asset to any development team. Although I currently lack professional experience in the field, I am committed to dedicating my time and energy to achieve my goals in software development.
 
 I possess fundamental knowledge in a variety of programming languages, including JavaScript, React, Tailwind, Express, PostgreSQL, and Node. My ability to quickly adapt to new technologies and my proactive approach enable me to tackle technical challenges with confidence and determination. Furthermore, my ability to work independently demonstrates my commitment to self-development and overcoming obstacles.
 
