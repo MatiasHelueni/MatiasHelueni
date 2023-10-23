@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi, I am an aspiring full-stack developer with an innate passion for learning and growth in the world of programming. My focus is on acquiring strong skills in web development and becoming a valuable asset to any development team. Although I currently lack professional experience in the field, I am committed to dedicating my time and energy to achieve my goals in software development.
+
+I possess fundamental knowledge in a variety of programming languages, including JavaScript, React, Tailwind, Express, PostgreSQL, and Node. My ability to quickly adapt to new technologies and my proactive approach enable me to tackle technical challenges with confidence and determination. Furthermore, my ability to work independently demonstrates my commitment to self-development and overcoming obstacles.
+
+As part of your team, I will strive to expand my skills and knowledge, bringing enthusiasm and dedication to contribute to the success of your projects. I am excited about the opportunity to be part of a dynamic environment that fosters professional and personal growth, and I look forward to bringing my enthusiasm and commitment to your company.
 
 <!--
 **MatiasHelueni/MatiasHelueni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
