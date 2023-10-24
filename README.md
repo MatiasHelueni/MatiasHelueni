@@ -28,6 +28,13 @@ As part of your team, I will strive to expand my skills and knowledge, bringing 
 		&emsp;
     <img alt="Node.js" src="https://img.shields.io/badge/Node.Js-35f5e4"/>
 </p>
+
+## Let's Connect
+<p align="center">
+	<a href="mailto:mhelueni@gmail.com" ><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/matias-helueni-255023197/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	
+</p>
 <!--
 **MatiasHelueni/MatiasHelueni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
