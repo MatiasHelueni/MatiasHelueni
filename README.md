@@ -6,6 +6,28 @@ I possess fundamental knowledge in a variety of programming languages, including
 
 As part of your team, I will strive to expand my skills and knowledge, bringing enthusiasm and dedication to contribute to the success of your projects. I am excited about the opportunity to be part of a dynamic environment that fosters professional and personal growth, and I look forward to bringing my enthusiasm and commitment to your company.
 
+## 🛠️ My Skills
+
+<p align="left"> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-8A2BE2">
+		&emsp;
+    <img alt="React" src="https://img.shields.io/badge/React-2N7BA5"/>
+		&emsp;
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.Js-35f5e4"/>
+</p>
 <!--
 **MatiasHelueni/MatiasHelueni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
